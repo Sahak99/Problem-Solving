@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\sahak\WEB\50tnayin\Tnayin50\22_24\22_24\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\sahak\WEB\50tnayin\Tnayin50\22_24\22_24\Source.cpp(77): warning C4715: secDiag: значение возвращается не при всех путях выполнения
+C:\Users\sahak\WEB\50tnayin\Tnayin50\22_24\22_24\Source.cpp(58): warning C4715: mainDiag: значение возвращается не при всех путях выполнения
+  22_24.vcxproj -> C:\Users\sahak\WEB\50tnayin\Tnayin50\22_24\22_24\Debug\22_24.exe
