@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\sahak\WEB\50tnayin\Tnayin50\9\9\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\sahak\WEB\50tnayin\Tnayin50\9\9\Source.cpp(16,18): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\sahak\WEB\50tnayin\Tnayin50\9\9\Source.cpp(16,45): warning C4018: <=: несоответствие типов со знаком и без знака
-  9.vcxproj -> C:\Users\sahak\WEB\50tnayin\Tnayin50\9\9\Debug\9.exe

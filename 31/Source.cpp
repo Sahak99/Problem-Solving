@@ -62,5 +62,5 @@ void findMax(int* values, int len,char* alphabet) {
 	for (int i = 0; i < k; i++) cout << maxind[i] << " ";
 	cout << endl<<"The most common simbols are: ";
 	for (int i = 0; i < k; i++) cout << alphabet[maxind[i]] << " ";
-
+	delete[] maxind;
 }
