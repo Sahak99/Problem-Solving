@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\sahak\WEB\50tnayin\Tnayin50\46\46\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\sahak\WEB\50tnayin\Tnayin50\46\46\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  46.vcxproj -> C:\Users\sahak\WEB\50tnayin\Tnayin50\46\46\Debug\46.exe
