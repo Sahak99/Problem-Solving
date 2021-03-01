@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\sahak\WEB\50tnayin\Tnayin50\MyList\MyList\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\sahak\WEB\50tnayin\Tnayin50\MyList\MyList\Source.cpp(44,1): error C2563: несоответствие в списке формальных параметров
+C:\Users\sahak\WEB\50tnayin\Tnayin50\MyList\MyList\Source.cpp(44): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyList<T>"
