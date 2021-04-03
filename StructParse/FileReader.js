@@ -23,7 +23,6 @@ for(let i = 0; i < fileLength; i++){
     tmp+=fData[i];
   }
 }
-parseInt
 let studentsArray = [];
 
 for(let i = 2; i < tokensArray.length-1; i+=2){
